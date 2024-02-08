@@ -1,1 +1,0 @@
-console.log(document.getElementById("con").dataset.res);
